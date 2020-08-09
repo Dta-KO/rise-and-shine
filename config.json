@@ -1,5 +1,5 @@
 {
-  "pingFrequency" : 900000,
+  "pingFrequency" : 90000,
   "urlsToPing" : [
   	"http://dtako.herokuapp.com/",
     "http://hvhcchatbot.herokuapp.com/"
