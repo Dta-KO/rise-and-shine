@@ -1,8 +1,8 @@
 {
   "pingFrequency" : 900000,
   "urlsToPing" : [
-  	"http://www.myappurl.com", 
-  	"http://www.myappurl2.com"
+  	"http://dtako.herokuapp.com/",
+    "http://hvhcchatbot.herokuapp.com/"
   ],
-  "pingServerUrl" : "http://myapp.herokuapp.com"
+  "pingServerUrl" : "http://keep-alive-app.herokuapp.com"
 }
